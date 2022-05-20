@@ -1,0 +1,5 @@
+C:\Users\eric\Desktop\CF-143\notes\projects\PopsSodaPops\PopsSodaPop_StudentFrame\test\PopsSodaPop.Data.Test\obj\Debug\net6.0\PopsSodaPop.Data.csproj.AssemblyReference.cache
+C:\Users\eric\Desktop\CF-143\notes\projects\PopsSodaPops\PopsSodaPop_StudentFrame\test\PopsSodaPop.Data.Test\obj\Debug\net6.0\PopsSodaPop.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eric\Desktop\CF-143\notes\projects\PopsSodaPops\PopsSodaPop_StudentFrame\test\PopsSodaPop.Data.Test\obj\Debug\net6.0\PopsSodaPop.Data.AssemblyInfoInputs.cache
+C:\Users\eric\Desktop\CF-143\notes\projects\PopsSodaPops\PopsSodaPop_StudentFrame\test\PopsSodaPop.Data.Test\obj\Debug\net6.0\PopsSodaPop.Data.AssemblyInfo.cs
+C:\Users\eric\Desktop\CF-143\notes\projects\PopsSodaPops\PopsSodaPop_StudentFrame\test\PopsSodaPop.Data.Test\obj\Debug\net6.0\PopsSodaPop.Data.csproj.CoreCompileInputs.cache
